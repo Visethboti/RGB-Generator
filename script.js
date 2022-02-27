@@ -6,6 +6,6 @@ document.getElementById('container').oninput = function() {
   document.getElementById('newRed').innerHTML = nRed;
   document.getElementById('newBlue').innerHTML = nBlue;
   document.getElementById('newGreen').innerHTML = nGreen;
-  document.getElementById('colorBox').style.background = 'rgb('+nRed+','+nBlue+','+nGreen+')';
+  document.getElementById('colorBox').style.background = 'rgb('+nRed+','+nGreen+','+nBlue+')';
   //'rgb('+nRed+','+nBlue+','+nGreen+')'
 }

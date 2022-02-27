@@ -3,3 +3,7 @@
   padding: 30px ;
   border: 1px solid green ;
 }
+
+input[type="range"] {
+  width:400px;
+}
