@@ -1,0 +1,5 @@
+#colorBox{
+  background: linear-gradient(-45deg, rgb(0, 0, 255), rgb(0, 255, 0), rgb(255, 0, 0));
+  padding: 30px ;
+  border: 1px solid green ;
+}
